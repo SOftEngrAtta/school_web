@@ -14,6 +14,41 @@ License URL: http://creativecommons.org/licenses/by/3.0/
      font-family: 'open_sansregular';
       src:url('../fonts/OpenSans-Regular-webfont.ttf') format('truetype');
 }
+
+@font-face {
+	font-family: biFontHairline;
+	src: url(../PF_Din_Stencil/PFDinStencil-Hairline.otf);
+  }
+  @font-face {
+	font-family: biFontLight;
+	src: url(../PF_Din_Stencil/PFDinStencil-Light.otf);
+  }
+  @font-face {
+	font-family: biFontMedium;
+	src: url(../PF_Din_Stencil/PFDinStencil-Medium.otf);
+  }
+  @font-face {
+	font-family: biFontThin;
+	src: url(../PF_Din_Stencil/PFDinStencil-Thin.otf);
+  }
+  @font-face {
+	font-family: biFontXThin;
+	src: url(../PF_Din_Stencil/PFDinStencil-XThin.otf);
+  }
+  @font-face {
+	font-family: biFontReg;
+	src: url(assets/PF_Din_Stencil/PFDinStencil-Reg.otf);
+  }
+  @font-face {
+	font-family: biFontBold;
+	src: url(../PF_Din_Stencil/PFDinStencil-Bold.otf);
+  }
+  @font-face {
+	font-family: biFontBlack;
+	src: url(../PF_Din_Stencil/PFDinStencil-Black.otf);
+  }
+
+
 body {
 	font-family: 'open_sansregular';
 	background:#ffffff;
