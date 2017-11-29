@@ -48,6 +48,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	src: url(../PF_Din_Stencil/PFDinStencil-Black.otf);
   }
 
+*{
+	font-family: biFontMedium;
+}
 
 body {
 	font-family: 'open_sansregular';
